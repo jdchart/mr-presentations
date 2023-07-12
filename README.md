@@ -4,8 +4,6 @@
 
 - [IIIF Conference, Naples 2023](https://github.com/jdchart/mr-iiif-conf-2023)
 
-- [ADHO, Graz 2023](/ADHO-2023/adho-2023.md)
-
 ## Useful links
 
 - [MemoRekall website](www.memorekall.com)
